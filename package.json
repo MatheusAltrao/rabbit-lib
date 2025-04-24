@@ -1,5 +1,5 @@
 {
-  "author": "",
+  "author": "matheusaltrao",
   "dependencies": {
     "@rollup/plugin-typescript": "^12.1.2",
     "react": "^19.1.0",
@@ -31,7 +31,7 @@
     }
   },
   "license": "ISC",
-  "main": "dist/index.js",
+  "main": "./dist/index.js",
   "name": "@matheusaltrao/rabbit",
   "private": false,
   "scripts": {
@@ -41,6 +41,6 @@
     "preview": "vite preview"
   },
   "type": "module",
-  "types": "dist/index.d.ts",
+  "types": "./dist/index.d.ts",
   "version": "0.0.3"
 }
